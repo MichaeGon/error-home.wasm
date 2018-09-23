@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/bin/sh
 
 triple=wasm32-unknown-unknown
 module=error_home
