@@ -9,7 +9,7 @@ export function random(n) {
 }
 
 wasm.then(wasm => {
-    var pageContent = wasm.home(document.domain);
+    var pageContent = wasm.home();
 
     document.title = pageContent.title();
 
