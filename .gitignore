@@ -5,3 +5,4 @@ home_dist
 jump_dist
 node_modules
 package-lock.json
+dist
